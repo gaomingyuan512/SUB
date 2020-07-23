@@ -1,0 +1,11 @@
+🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+📹 油管视频,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/YouTube.list
+🎥 奈飞视频,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Netflix.list
+📺 巴哈姆特,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Bahamut.list
+🌏 亚洲媒体,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/DomesticMedia.list
+🌍 国外媒体,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/ForeignMedia.list
+🦴 谷歌服务,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Global.list
+🎯 全球直连,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list
+🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+🎯 全球直连,[]GEOIP,CN
+🐟 漏网之鱼,[]FINAL

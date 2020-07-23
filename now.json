@@ -1,0 +1,21 @@
+{
+  "name": "now-static-bin-subconverter",
+  "public": false,
+  "version": 2,
+  "builds": [
+    {
+      "src": "subconverter.exe",
+      "use": "now-static-bin",
+      "config": {
+        "port": 25500,
+        "timeout": 1500
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "^/(.*)",
+      "dest": "subconverter.exe"
+    }
+  ]
+}
